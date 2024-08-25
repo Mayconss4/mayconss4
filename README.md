@@ -20,6 +20,11 @@ I have a strong foundation in both front-end and back-end technologies, with a p
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://en.wikipedia.org/wiki/React_(JavaScript_library)"><img align="center" alt="Maycon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://pt.wikipedia.org/wiki/HTML5"><img align="center" alt="Maycon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://en.wikipedia.org/wiki/CSS"><img align="center" alt="Maycon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://en.wikipedia.org/wiki/C_(programming_language)">
+    <img align="center" alt="Maycon-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://en.wikipedia.org/wiki/C%2B%2B">
+    <img align="center" alt="Maycon-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="max-width: 100%;"></a>
+
   
 
 ## 🌱 Always Learning
