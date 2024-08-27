@@ -13,7 +13,7 @@ I have a strong foundation in both front-end and back-end technologies, with a p
 
 - **Front-End:** CSS, HTML, JavaScript, React, TypeScript
 - **Back-End:** C++, C
-- **Tools & Frameworks:** Styled-Components, jQuery, Git, Node.js
+- **Tools & Frameworks:** Styled-Components, jQuery, Git
  <div dir="auto">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://pt.wikipedia.org/wiki/JavaScript"><img align="center" alt="Maycon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://en.wikipedia.org/wiki/TypeScript"><img align="center" alt="Maycon-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" style="max-width: 100%;"></a>
