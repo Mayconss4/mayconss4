@@ -34,5 +34,5 @@ I'm committed to continuous learning and currently deepening my knowledge in **J
 ## 🔗 Connect with Me
 
 Feel free to explore my repositories and connect with me. Let’s build something amazing together!
-<!-- - [LinkedIn](https://www.linkedin.com/in/maycon-sousa) -->
+- [LinkedIn](https://www.linkedin.com/in/maycon-henrique-soares-de-sousa-1332532aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - [Email](mailto:mayconsousa91@outlook.com)
