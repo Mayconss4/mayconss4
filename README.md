@@ -30,6 +30,11 @@ I have a strong foundation in both front-end and back-end technologies, with a p
 ## 🌱 Always Learning
 
 I'm committed to continuous learning and currently deepening my knowledge in **Java** and **Adobe AEM**. Whether it's experimenting with new frameworks, diving deep into algorithms, or contributing to open-source projects, I'm always looking for ways to grow and refine my skills.
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://en.wikipedia.org/wiki/Java_(programming_language)">
+  <img align="center" alt="Maycon-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://en.wikipedia.org/wiki/Adobe_Experience_Manager">
+  <img align="center" alt="Maycon-AEM" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/adobe-experience-manager.svg" style="max-width: 100%;"></a>
+
 
 ## 🔗 Connect with Me
 
