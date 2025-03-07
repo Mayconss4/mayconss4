@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a **Front-End Developer** with a knack for cra
 I have a strong foundation in both front-end and back-end technologies, with a particular focus on creating seamless user experiences. Here’s a snapshot of my technical skill set:
 
 - **Front-End:** CSS, HTML, JavaScript, React, TypeScript
-- **Back-End:** C++, C
+- **Back-End:** C++, C, JAVA
 - **Tools & Frameworks:** Styled-Components, jQuery, Git
  <div dir="auto">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://pt.wikipedia.org/wiki/JavaScript"><img align="center" alt="Maycon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;"></a>
@@ -24,14 +24,14 @@ I have a strong foundation in both front-end and back-end technologies, with a p
     <img align="center" alt="Maycon-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://en.wikipedia.org/wiki/C%2B%2B">
     <img align="center" alt="Maycon-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="max-width: 100%;"></a>
-
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://en.wikipedia.org/wiki/Java_(programming_language)">
+  <img align="center" alt="Maycon-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="max-width: 100%;"></a>
   
 
 ## 🌱 Always Learning
 
-I'm committed to continuous learning and currently deepening my knowledge in **Java** and **Adobe AEM**. Whether it's experimenting with new frameworks, diving deep into algorithms, or contributing to open-source projects, I'm always looking for ways to grow and refine my skills.<br/>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://en.wikipedia.org/wiki/Java_(programming_language)">
-  <img align="center" alt="Maycon-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="max-width: 100%;"></a>
+I'm committed to continuous learning and currently deepening my knowledge in **Adobe AEM**. Whether it's experimenting with new frameworks, diving deep into algorithms, or contributing to open-source projects, I'm always looking for ways to grow and refine my skills.<br/>
+
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://en.wikipedia.org/wiki/Adobe_Experience_Manager">
   <img align="center" alt="Maycon-AEM" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/adobe-experience-manager.svg" style="max-width: 100%;"></a>
 
