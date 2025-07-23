@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Maycon Henrique Soares de Sousa
 
-Welcome to my GitHub profile! I'm a **Front-End Developer** with a knack for crafting clean, efficient, and user-friendly interfaces. At 21 years old, I'm constantly pushing the boundaries of web development, blending creativity with technical expertise.
+Welcome to my GitHub profile! I'm a **Front-End Developer** with a knack for crafting clean, efficient, and user-friendly interfaces. At 22 years old, I'm constantly pushing the boundaries of web development, blending creativity with technical expertise.
 
 ## 🎓 Education & Background
 
