@@ -1,43 +1,58 @@
-# 👋 Hello! I'm Maycon Henrique Soares de Sousa
+# 👋 Olá! Eu sou Maycon
 
-Welcome to my GitHub profile! I'm a **Front-End Developer** with a knack for crafting clean, efficient, and user-friendly interfaces. At 22 years old, I'm constantly pushing the boundaries of web development, blending creativity with technical expertise.
+Bem-vindo ao meu perfil no GitHub! Sou **Desenvolvedor Front-End**, com foco em **interfaces modernas, performáticas e escaláveis**. Tenho 4 anos de experiência prática em projetos reais, atuando desde a concepção até a entrega de soluções web com foco em **qualidade de código, UI/UX e boas práticas**.
 
-## 🎓 Education & Background
+## 🎓 Formação Acadêmica
 
-- **Técnico em Informática** - Centro Federal de Educação Tecnológica de Minas Gerais (CEFET-MG)
-- **B.Sc. in Information Systems (Ongoing)** - Universidade Federal de Lavras (UFLA)
+- **Técnico em Informática** — Centro Federal de Educação Tecnológica de Minas Gerais (CEFET-MG)
+- **Bacharelado em Sistemas de Informação (em andamento)** — Universidade Federal de Lavras (UFLA)
 
-## 💻 Technologies & Skills
+## 💻 Tecnologias & Competências
 
-I have a strong foundation in both front-end and back-end technologies, with a particular focus on creating seamless user experiences. Here’s a snapshot of my technical skill set:
+Possuo sólida experiência em desenvolvimento front-end moderno, com domínio de frameworks, integração com APIs e construção de interfaces responsivas e acessíveis.
 
-- **Front-End:** CSS, HTML, JavaScript, React, TypeScript
-- **Back-End:** C++, C, JAVA
-- **Tools & Frameworks:** Styled-Components, jQuery, Git
- <div dir="auto">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://pt.wikipedia.org/wiki/JavaScript"><img align="center" alt="Maycon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://en.wikipedia.org/wiki/TypeScript"><img align="center" alt="Maycon-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://en.wikipedia.org/wiki/React_(JavaScript_library)"><img align="center" alt="Maycon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://pt.wikipedia.org/wiki/HTML5"><img align="center" alt="Maycon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://en.wikipedia.org/wiki/CSS"><img align="center" alt="Maycon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;"></a>
+- **Front-End:** HTML5, CSS3, JavaScript (ES6+), TypeScript, React.js, Vue.js, Angular, Next.js  
+- **Back-End & Linguagens:** C, C++, Java  
+- **Ferramentas & Conceitos:** Git, GitHub, Styled-Components, Bootstrap, Axios, RESTful APIs, GraphQL, UI/UX, Responsive Design, Acessibilidade (WCAG), Agile/Scrum, Adobe AEM, Figma
+
+<div dir="auto">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://pt.wikipedia.org/wiki/JavaScript">
+    <img align="center" alt="Maycon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+  </a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://en.wikipedia.org/wiki/TypeScript">
+    <img align="center" alt="Maycon-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
+  </a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://en.wikipedia.org/wiki/React_(JavaScript_library)">
+    <img align="center" alt="Maycon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+  </a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://pt.wikipedia.org/wiki/HTML5">
+    <img align="center" alt="Maycon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+  </a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://en.wikipedia.org/wiki/CSS">
+    <img align="center" alt="Maycon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+  </a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://en.wikipedia.org/wiki/C_(programming_language)">
-    <img align="center" alt="Maycon-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="max-width: 100%;"></a>
+    <img align="center" alt="Maycon-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
+  </a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://en.wikipedia.org/wiki/C%2B%2B">
-    <img align="center" alt="Maycon-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://en.wikipedia.org/wiki/Java_(programming_language)">
-  <img align="center" alt="Maycon-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="max-width: 100%;"></a>
-  
+    <img align="center" alt="Maycon-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
+  </a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://en.wikipedia.org/wiki/Java_(programming_language)">
+    <img align="center" alt="Maycon-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
+  </a>
+</div>
 
-## 🌱 Always Learning
+## 🌱 Em Constante Evolução
 
-I'm committed to continuous learning and currently deepening my knowledge in **Adobe AEM**. Whether it's experimenting with new frameworks, diving deep into algorithms, or contributing to open-source projects, I'm always looking for ways to grow and refine my skills.<br/>
+Tenho compromisso com aprendizado contínuo e atualmente aprofundo meus conhecimentos em **Adobe Experience Manager (AEM)**, além de arquitetura front-end, componentização avançada e boas práticas de acessibilidade. Estou sempre buscando evoluir tecnicamente e entregar soluções robustas e bem estruturadas.
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://en.wikipedia.org/wiki/Adobe_Experience_Manager">
-  <img align="center" alt="Maycon-AEM" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/adobe-experience-manager.svg" style="max-width: 100%;"></a>
+  <img align="center" alt="Maycon-AEM" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/adobe-experience-manager.svg"/>
+</a>
 
+## 🔗 Conecte-se Comigo
 
-## 🔗 Connect with Me
+Fique à vontade para explorar meus repositórios e entrar em contato. Vamos construir soluções de alto impacto juntos!
 
-Feel free to explore my repositories and connect with me. Let’s build something amazing together!
-- [LinkedIn](https://www.linkedin.com/in/maycon-henrique-soares-de-sousa-1332532aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [LinkedIn](https://www.linkedin.com/in/maycon-henrique-soares-de-sousa-1332532aa/)
 - [Email](mailto:mayconsousa91@outlook.com)
