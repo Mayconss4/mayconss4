@@ -9,7 +9,7 @@ Bem-vindo ao meu perfil no GitHub! Sou **Desenvolvedor Full Stack**, com foco em
 
 ## 💻 Tecnologias & Competências
 
-Possuo sólida experiência em desenvolvimento front-end moderno, com domínio de frameworks, integração com APIs e construção de interfaces responsivas e acessíveis.
+Possuo sólida experiência em desenvolvimento moderno, com domínio de frameworks, integração com APIs e construção de interfaces responsivas e acessíveis.
 
 - **Front-End:** HTML5, CSS3, JavaScript (ES6+), TypeScript, React.js, Vue.js, Angular, Next.js  
 - **Back-End:** C, C++, Java, PHP, Laravel, Spring Boot 
@@ -44,7 +44,7 @@ Possuo sólida experiência em desenvolvimento front-end moderno, com domínio d
 
 ## 🌱 Em Constante Evolução
 
-Tenho compromisso com aprendizado contínuo e atualmente aprofundo meus conhecimentos em **Adobe Experience Manager (AEM)**, além de arquitetura front-end, componentização avançada e boas práticas de acessibilidade. Estou sempre buscando evoluir tecnicamente e entregar soluções robustas e bem estruturadas.
+Tenho compromisso com aprendizado contínuo e atualmente aprofundo meus conhecimentos em **Adobe Experience Manager (AEM)**, além de arquitetura full stack, componentização avançada e boas práticas de acessibilidade. Estou sempre buscando evoluir tecnicamente e entregar soluções robustas e bem estruturadas.
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://en.wikipedia.org/wiki/Adobe_Experience_Manager">
   <img align="center" alt="Maycon-AEM" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/adobe-experience-manager.svg"/>
