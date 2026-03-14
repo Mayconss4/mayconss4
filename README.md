@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Maycon
 
-Bem-vindo ao meu perfil no GitHub! Sou **Desenvolvedor Front-End**, com foco em **interfaces modernas, performáticas e escaláveis**. Tenho 4 anos de experiência prática em projetos reais, atuando desde a concepção até a entrega de soluções web com foco em **qualidade de código, UI/UX e boas práticas**.
+Bem-vindo ao meu perfil no GitHub! Sou **Desenvolvedor Full Stack**, com foco em **interfaces modernas, performáticas e escaláveis**. Tenho 4 anos de experiência prática em projetos reais, atuando desde a concepção até a entrega de soluções web com foco em **qualidade de código, UI/UX e escalabilidade**.
 
 ## 🎓 Formação Acadêmica
 
@@ -12,7 +12,7 @@ Bem-vindo ao meu perfil no GitHub! Sou **Desenvolvedor Front-End**, com foco em 
 Possuo sólida experiência em desenvolvimento front-end moderno, com domínio de frameworks, integração com APIs e construção de interfaces responsivas e acessíveis.
 
 - **Front-End:** HTML5, CSS3, JavaScript (ES6+), TypeScript, React.js, Vue.js, Angular, Next.js  
-- **Back-End & Linguagens:** C, C++, Java  
+- **Back-End:** C, C++, Java, PHP, Laravel, Spring Boot 
 - **Ferramentas & Conceitos:** Git, GitHub, Styled-Components, Bootstrap, Axios, RESTful APIs, GraphQL, UI/UX, Responsive Design, Acessibilidade (WCAG), Agile/Scrum, Adobe AEM, Figma
 
 <div dir="auto">
