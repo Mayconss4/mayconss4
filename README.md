@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu perfil no GitHub! Sou **Engenheiro de Software e Desenvolvedor Full Stack**, com experiência no desenvolvimento de aplicações web, plataformas corporativas e soluções dentro do ecossistema **Adobe Experience Cloud**.
 
-Tenho 4 anos de experiência prática em projetos reais, atuando desde a concepção e definição técnica até o desenvolvimento e entrega de soluções web, com foco em **qualidade de código, arquitetura, UI/UX, performance e escalabilidade**.
+Atuo desde a concepção e definição técnica até o desenvolvimento e entrega de soluções web, com foco em **qualidade de código, arquitetura, UI/UX, performance e escalabilidade**.
 
 Atualmente, minha atuação envolve principalmente **Adobe Experience Manager (AEM as a Cloud Service), Adobe Workfront, Workfront Fusion, Adobe App Builder, React e TypeScript**, além do desenvolvimento de integrações e automações utilizando **APIs REST e GraphQL**.
 
